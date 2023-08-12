@@ -1,0 +1,27 @@
+/* ... (Previous styles) ... */
+
+.sidebar {
+    /* ... (Previous styles) ... */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #3498db;
+    color: white;
+    min-height: 100vh;
+}
+
+.contact-info, .education, .current-company, .skills {
+    /* ... (Previous styles) ... */
+    background-color: #2980b9;
+    padding: 2rem;
+    color: white;
+}
+
+.experience-item {
+    /* ... (Previous styles) ... */
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
+
+/* ... (Other styles) ... */
